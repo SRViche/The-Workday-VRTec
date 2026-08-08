@@ -29,7 +29,7 @@ A teammate contributed in parallel on other parts of the project. Commit history
 
 | Category | Technology |
 |---|---|
-| Engine | Unity `[version]` |
+| Engine | Unity 6000.3.7f1 |
 | Language | C# |
 | Interaction | XR Interaction Toolkit |
 | AI / Pathfinding | Unity NavMesh (NavMeshAgent) |
@@ -47,12 +47,12 @@ A teammate contributed in parallel on other parts of the project. Commit history
 ## Setup & Run
 
 **Prerequisites**
-- Unity `[version]` with the Universal/Built-in Render Pipeline (match project settings)
+- Unity 6000.3.7f1 with the Universal/Built-in Render Pipeline (match project settings)
 - XR Interaction Toolkit package (installed via Unity Package Manager)
-- An OpenXR-compatible VR headset and runtime (`[target platform, e.g. Meta Quest / SteamVR]`)
+- An OpenXR-compatible VR headset and runtime (MetaQuest)
 
 **Steps**
-1. Clone the repository: `git clone [repo URL]`
+1. Clone the repository: `git clone https://github.com/SRViche/The-Workday-VRTec.git`
 2. Open the project folder in Unity Hub with the matching Unity version.
 3. Ensure the XR Plug-in Management and XR Interaction Toolkit packages are enabled (`Edit > Project Settings > XR Plug-in Management`).
 4. Connect/pair your headset and press Play in the Unity Editor, or build to your target platform via `File > Build Settings`.
